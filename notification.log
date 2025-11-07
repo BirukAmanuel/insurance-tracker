@@ -1,0 +1,22 @@
+2025-05-22T16:35:27.651Z | ProjectID: 27 | Email: backa7892@gmail.com | MonthsLeft: 6
+2025-05-22T16:35:31.324Z | ProjectID: 29 | Email: backa7892@gmail.com | MonthsLeft: 1
+2025-05-22T16:35:34.621Z | ProjectID: 30 | Email: backa7892@gmail.com | MonthsLeft: 3
+2025-05-26T07:31:59.149Z | Module: PROJECT | RecordID: 41 | Email: backa7892@gmail.com | MonthsLeft: 1 | Status: Sent
+2025-05-26T15:00:09.051Z | Module: PROJECT | RecordID: 42 | Email: backa7892@gmail.com | MonthsLeft: 3 | Status: Sent
+2025-05-26T15:00:13.558Z | Module: PROJECT | RecordID: 42 | Email: projectauhtorizer@example.com | MonthsLeft: 3 | Status: Sent
+2025-05-26T15:00:21.287Z | Module: PROJECT | RecordID: 42 | Email: backa7892@gmail.com | MonthsLeft: 3 | Status: Failed: connect ETIMEDOUT 173.194.69.109:465
+2025-05-26T15:00:21.338Z | Module: PROJECT | RecordID: 42 | Email: projectauhtorizer@example.com | MonthsLeft: 3 | Status: Skipped (Duplicate)
+2025-05-26T15:00:22.762Z | Module: PROJECT | RecordID: 41 | Email: backa7892@gmail.com | MonthsLeft: 1 | Status: Sent
+2025-05-26T15:00:49.409Z | Module: PROJECT | RecordID: 41 | Email: backa7892@gmail.com | MonthsLeft: 1 | Status: Sent
+2025-05-26T15:00:50.162Z | Module: PROJECT | RecordID: 41 | Email: projectauhtorizer@example.com | MonthsLeft: 1 | Status: Sent
+2025-05-26T15:00:53.831Z | Module: PROJECT | RecordID: 41 | Email: projectauhtorizer@example.com | MonthsLeft: 1 | Status: Sent
+2025-05-26T15:00:55.649Z | Module: ASSET | RecordID: 4 | Email: assetinputter@example.com | MonthsLeft: 3 | Status: Sent
+2025-05-26T15:00:59.537Z | Module: ASSET | RecordID: 4 | Email: assetinputter@example.com | MonthsLeft: 3 | Status: Sent
+2025-05-26T15:01:00.458Z | Module: ASSET | RecordID: 4 | Email: assetauhtorizer@example.com | MonthsLeft: 3 | Status: Sent
+2025-05-26T15:01:09.763Z | Module: ASSET | RecordID: 4 | Email: assetauhtorizer@example.com | MonthsLeft: 3 | Status: Sent
+2025-05-31T14:25:05.754Z | Module: STAFF | RecordID: 41 | Email: blackman@gmail.com | MonthsLeft: 3 | Status: Sent
+2025-05-31T14:25:09.154Z | Module: STAFF | RecordID: 41 | Email: staffauhtorizer@example.com | MonthsLeft: 3 | Status: Sent
+2025-05-31T14:43:45.134Z | Module: STAFF | RecordID: 41 | Email: blackman@gmail.com | MonthsLeft: 3 | Status: Skipped (Duplicate)
+2025-05-31T14:43:45.210Z | Module: STAFF | RecordID: 41 | Email: staffauhtorizer@example.com | MonthsLeft: 3 | Status: Skipped (Duplicate)
+2025-05-31T14:43:48.228Z | Module: STAFF | RecordID: 42 | Email: amanuel62denu@gmail.com | MonthsLeft: 3 | Status: Sent
+2025-05-31T14:43:51.218Z | Module: STAFF | RecordID: 42 | Email: staffauhtorizer@example.com | MonthsLeft: 3 | Status: Sent
